@@ -19,5 +19,4 @@ app.listen(3000, () => {
 /register --> POST = user
 /profile/:userId --> GET = user
 /image --> PUT --> user (updated with ranking)
-
 */
