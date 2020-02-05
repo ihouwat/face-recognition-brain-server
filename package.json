@@ -1,5 +1,5 @@
 {
-  "name": "smart-brain-api",
+  "name": "face-recognition-brain-server",
   "version": "1.0.0",
   "description": "api for smart brain project",
   "main": "script.js",
